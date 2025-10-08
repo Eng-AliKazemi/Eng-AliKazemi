@@ -1,4 +1,4 @@
-## IBM Certified: AI Solution Architect | AI Engineer | AI Researcher
+## IBM Certified: AI Solution Architect | Generative AI Engineer | AI Developer
 
 I am an AI enthusiast. I dedicate my time to understand the underlying technologies, tools, and methods that shape intelligent systems. My goal is to become an AI Solution Architect. To reach this goal, I focus on becoming a professional researcher, developer, and engineer who understands the entire process from concept to deployment.
 
