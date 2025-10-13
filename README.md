@@ -6,7 +6,7 @@ On the management side, I am passionate about learning product management and pr
 
 In addition to my technical development, I bring over 10 years of successful management experience. This helps me take on relevant leadership positions and provide mentorship to others pursuing careers in AI and technology.
 
-I am well equipped with strong analytical thinking and emotional intelligence. These qualities help me solve complex problems, collaborate effectively, and lead with clarity and empathy.
+I have strong analytical thinking and emotional intelligence abilities. These qualities help me solve complex problems, collaborate effectively, and lead with clarity and empathy.
 
 I now have experience in various but related topics that support my path toward becoming a true AI Solution Architect. 
 
