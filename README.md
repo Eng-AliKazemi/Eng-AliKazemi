@@ -2,7 +2,7 @@
 
 My work focuses on the critical intersection of AI systems and high-performance computing, specifically solving the complex concurrency challenges in deploying production-grade AI applications.
 
-Through my experience architecting AI solutions and educating developers on concurrency (as the author of the **Python Concurrency Handbook**), I identified a recurring, multi-billion-dollar problem: engineering teams are constantly rebuilding fragile, complex infrastructure to handle the unique concurrency demands of AI workloads. Standard API gateways and task queues are not designed for this.
+Through my experience architecting AI solutions and helping developers on concurrency (as the author of the **Python Concurrency Handbook**), I identified a recurring, multi-billion-dollar problem: engineering teams are constantly rebuilding fragile, complex infrastructure to handle the unique concurrency demands of AI workloads. Standard API gateways and task queues are not designed for this.
 
 To solve this problem at the infrastructure level, I founded the **[UCP Foundation](https://github.com/UCP-Foundation)** and am the creator of the **[Unified Python Concurrency Engine (UPCE)](https://github.com/UCP-Foundation/UPCE)**, the open-source, workload-aware runtime designed to make scalable AI deployment simple and reliable.
 
