@@ -1,4 +1,4 @@
-### Lead AI Solution Architect | Author of the Python Concurrency Handbook
+### AI Solution Architect | Author of the Python Concurrency Handbook
 
 My work focuses on the critical intersection of AI systems and high-performance computing, specifically solving the complex concurrency challenges in deploying production-grade AI applications.
 
