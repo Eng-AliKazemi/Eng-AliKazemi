@@ -1,4 +1,4 @@
-### AI Solution Architect | AI Systems Strategist | Rust Developer
+### Lead AI Enginerr | AI Systems Strategist | Go/Rust Developer
 
 I lead the design and direction of **next‑generation AI infrastructure**, with a focus on unifying Python’s ecosystem strengths with Go performance, safety, and systems‑level control. My work centers on architecting platforms that can sustain the scale, reliability, and computational intensity demanded by modern AI.
 
