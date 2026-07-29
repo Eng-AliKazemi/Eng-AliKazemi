@@ -2,7 +2,7 @@
 
 I architect and build **custom, high-performance AI systems** designed for low latency, high throughput, and deterministic reliability. Operating under a strict **"Research First, Production Last"** philosophy, I validate complex system designs through rigorous prototyping, static analysis, and technical due diligence before committing code to production.
 
-My work focuses on bridging Python’s expressiveness in the AI ecosystem with **Go’s low-latency, concurrent, and systems-level capabilities**. By replacing fragile plumbing with high-concurrency Go services, I eliminate interpreter overhead and GIL contention—delivering compliant, resilient agentic platforms and enterprise RAG infrastructure that scale effortlessly.
+My work focuses on bridging Python’s expressiveness in the AI ecosystem with **Go’s low-latency, concurrent, and systems-level capabilities**. By replacing fragile plumbing with high-concurrency Go services, I eliminate interpreter overhead and GIL contention, delivering compliant, resilient agentic platforms and enterprise RAG infrastructure that scale effortlessly.
 
 ---
 
