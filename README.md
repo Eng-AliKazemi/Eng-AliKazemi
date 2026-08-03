@@ -23,3 +23,9 @@ My leadership is grounded in structural engineering over incremental patches. I 
 - **Python for orchestration & rapid iteration**: Leveraging the rich ecosystem for model design and rapid prototyping.
 - **Go for high-concurrency & core execution**: Utilizing Go's runtime, native concurrency models, and low memory footprint for mission-critical core engines.
 - **Determinism & Safety by Design**: Strict access controls, fallback guarantees, and comprehensive observability across every layer of the AI lifecycle.
+
+### More Info
+[https://aran-kazemi.github.io/portfolio/](https://aran-kazemi.github.io/portfolio/)
+
+### Contact
+<a href="https://linkedin.com/in/e-a-k" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" alt="Connect on LinkedIn"/></a>
