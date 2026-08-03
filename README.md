@@ -1,4 +1,4 @@
-### Lead AI System Architect | Go Systems Engineer | High-Performance AI Infrastructure
+### Generative AI System Architect | AI Agent Platform Engineer | RAG Infrastructure Engineer
 
 I architect and build **custom, high-performance AI systems** designed for low latency, high throughput, and deterministic reliability. Operating under a strict **"Research First, Production Last"** philosophy, I validate complex system designs through rigorous prototyping, static analysis, and technical due diligence before committing code to production.
 
